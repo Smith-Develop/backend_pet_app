@@ -198,7 +198,7 @@ npm start
 
 ## ✒️ Autor
 
-* **Smith Grisales** - *Desarrollador web Full-Stack* - [TuUsuario](https://github.com/Smith-Develop)
+* **Smith Grisales** - *Desarrollador web Full-Stack* - [Smith-Develop](https://github.com/Smith-Develop)
 
 ---
 ⌨️ con ❤️ por [Smith Grisales](https://github.com/Smith-Develop) 😊
